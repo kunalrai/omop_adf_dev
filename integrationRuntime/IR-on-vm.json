@@ -1,0 +1,6 @@
+{
+	"name": "IR-on-vm",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
